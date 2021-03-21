@@ -2,6 +2,6 @@ body{
     background: honeydew;
 }
 h1{
-    text-transform: uppercase;
+    text-transform: capitalize;
     text-align: right;
 }
